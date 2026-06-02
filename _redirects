@@ -1,4 +1,4 @@
-/email /.netlify/functions/track?source=email&campaign=pickleball_tournament 302
-/whatsapp /.netlify/functions/track?source=whatsapp&campaign=pickleball_tournament 302
-/facebook /.netlify/functions/track?source=facebook&campaign=pickleball_tournament 302
-/instagram /.netlify/functions/track?source=instagram&campaign=pickleball_tournament 302
+/email /.netlify/functions/track?source=email&campaign=GE_tournament 302
+/whatsapp /.netlify/functions/track?source=whatsapp&campaign=GE_tournament 302
+/facebook /.netlify/functions/track?source=facebook&campaign=GE_tournament 302
+/instagram /.netlify/functions/track?source=instagram&campaign=GE_tournament 302
